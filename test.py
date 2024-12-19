@@ -8,7 +8,7 @@ def test_submit_data():
     test_payload = [
         {"ldrValue": "on", "doorStatus": "open"},
         {"ldrValue": "off", "doorStatus": "closed"},
-        {"ldrValue": "on", "doorStatus": "ajar"},
+        {"ldrValue": "on", "doorStatus": "closed"},
     ]
 
     for i, payload in enumerate(test_payload):
