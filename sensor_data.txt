@@ -1,0 +1,3 @@
+LDR Value: on, Door Status: open
+LDR Value: off, Door Status: closed
+LDR Value: on, Door Status: ajar
